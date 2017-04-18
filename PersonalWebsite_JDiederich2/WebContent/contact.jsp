@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Contact Page</title>
+<link rel="stylesheet" href="styles/main.css" type="text/css">
 </head>
 <body>
 	<h1>Contact Page</h1>
